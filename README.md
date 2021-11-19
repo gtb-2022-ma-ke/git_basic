@@ -4,3 +4,6 @@ I have many hobbies. Sports like basketball, football and badminton, are my favo
 These are my garage kit:
 ![garage-kit](picture/garage-kit.jpg)
 
+And this is me, in 2019 EKKA in brisbane, Australia.
+![photo](picture/photo.jpg)
+
